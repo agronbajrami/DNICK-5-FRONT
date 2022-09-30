@@ -9,3 +9,5 @@
 
 
 
+Тест корисник
+admin:admintest
