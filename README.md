@@ -10,4 +10,5 @@
 
 
 Тест корисник
-admin:admintest
+username -> admin
+password -> admintest
